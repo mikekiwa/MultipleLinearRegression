@@ -1,5 +1,5 @@
 ITCS 6190 - Cloud Computing for Data Analysis - Assignment 4
-—————————————————————————————————————————————————————————————
+——————————————————————————————————————————————
 
 This is a read me document for the assignment 4 and explains all the files involved.
 
